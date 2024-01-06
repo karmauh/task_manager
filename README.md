@@ -18,7 +18,7 @@ This simple Python script serves as a basic task manager. Users can add tasks fo
 ## Example
 
 ```bash
-Enter what you want to do: add_task 2023:12:04 test czy dziala
+add_task 2023:12:04 test czy dziala
 ```
 ### Notes
 - Tasks are stored in a dictionary (tasks) where keys are dates, and values are lists of tasks for each date.
